@@ -39,8 +39,6 @@ DrivenData: https://www.drivendata.org/competitions/44/dengai-predicting-disease
 
 The repository includes the complete Jupyter Notebook containing the implementation, experiments, evaluation, and analysis.
 
-## Author
 
-**Anima Dahal**
-Bachelor of Information Technology
-AI/ML Research
+
+
